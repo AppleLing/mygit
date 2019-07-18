@@ -1,9 +1,0 @@
-com\study\spring\service\impl\UserServiceImplWithHandler.class
-com\study\spring\service\UserService.class
-com\study\spring\handler\TransationHandlerWithCGlibDynamicProxy.class
-com\study\spring\domain\User.class
-com\study\spring\handler\TransationHandlerWithJdkDynamicProxy.class
-com\study\spring\service\impl\UserServiceImplWithJdkDynamicProxy.class
-com\study\spring\handler\TransactionHandler.class
-com\study\spring\service\impl\UserServiceImpl.class
-com\study\spring\service\impl\UserServiceImplWithCGlibDynamicProxy.class
